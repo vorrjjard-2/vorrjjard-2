@@ -19,16 +19,8 @@ Hello! I’m a machine learning engineer & enthusiast, hoping to leverage the po
 
 ---
 
-## 🚀 Next Steps
-- Contribute to research in computer vision through lab collaborations.  
-- Publish open-source projects and share technical insights.  
-- Build a competitive application for CMU and other top ML programs.  
-
----
-
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ruben-saulog/)  
-- [GitHub](#)  
 - Portfolio site (coming soon)  
 
 ---

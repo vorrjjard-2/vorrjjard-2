@@ -1,7 +1,36 @@
-## Hi there 👋
+# Ruben Saulog
 
-I'm Ravi, a passionate engineer interested in anything ML / AI related, especially when it comes to robotics. Beep. boop.
+Hello! I’m a machine learning engineer & enthusiast, hoping to leverage the power of iterative learning to push humanity forward. Feel free to reach me through my contact details below if you want to collaborate on an ML project, discuss AI trends, or just have a coffee in general :)
 
-- 🔭 I’m currently working on some computer vision systems (YOLO-style), and also some basic ML applications in business intelligence.
-- 🌱 I’m currently learning more about `pytorch`, and some data manipulation packages like `pandas`.
-- 🤔 I’m looking to collaborate and create more projects in ML / AI. Reach me at ruben.saulog@gmail.com
+---
+
+## 🔭 Current Focus
+- **Computer Vision** — Implementing YOLO architectures end-to-end in PyTorch, including dataloaders, augmentation pipelines, anchor logic, and detection heads.  
+- **Deep Learning Foundations** — Studying and applying CNNs, RNNs/LSTMs, and feature engineering techniques.  
+- **Research Preparation** — Weekly ML/CV paper reading and Zettelkasten note-taking.  
+- **System Crafting** — Building a productive Arch Linux + Hyprland workflow.  
+
+---
+
+## 📂 Projects
+- **YOLO Family** — I build YOLO object detectors from scratch to solve a variety of real-world problems.
+- **Fundamentals** — In my free time, I explore no-library implementations of classic ML concepts to build intuition on the math behind the algorithms
+- **Rest Coming Soon!**
+
+---
+
+## 🚀 Next Steps
+- Contribute to research in computer vision through lab collaborations.  
+- Publish open-source projects and share technical insights.  
+- Build a competitive application for CMU and other top ML programs.  
+
+---
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/ruben-saulog/)  
+- [GitHub](#)  
+- Portfolio site (coming soon)  
+
+---
+
+⚡ *“Iterative improvement.”*
